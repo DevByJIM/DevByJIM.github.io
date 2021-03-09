@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
+permalink_name: /curriculum(preview)
 title: jekyll-shell-theme
 
 detail_image: assets/theme_logo.svg
