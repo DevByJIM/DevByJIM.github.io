@@ -22,7 +22,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 | ESO | Educación Secundaria Obligatoria | IES Tubalcaín. Tarazona | 1988 |
 | SMIR | Sistemas MicroInformáticos y Redes | IES .Tudela | 2018|
-| B1 | Nivel B1 de Ingles | System Idiomas. Tarazona | 2019 |
+| B1 | Nivel B1 de Inglés | System Idiomas. Tarazona | 2019 |
 | DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2021 |
 
 ## Programming Languages
