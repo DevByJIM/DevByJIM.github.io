@@ -29,12 +29,16 @@
 | Language | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | VBA | Applications Visual Basic | 4 |
+| VB.NET | Language VB.NET | 4 |
 | C# | Language C# | 4 |
 | WPF | Windows Presentation Foundation |  4 |
 | PHP | Language PHP |  3 |
 | JAVA | Language Java |  3 |
 | SQL | Structured Query Language | 4 |
 | PYTHON | Language PYTHON | 1 |
+| HTML5 | HyperText Markup Language.v5 | 2 |
+| CSS | Cascading Style Sheets | 2 |
+| JAVASCRIPT | Language JAVASCRIPT | 2 |
 
 ## IDE's
 | IDE | Description | Nivel 1 to 5 |
