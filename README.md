@@ -45,7 +45,7 @@
 | ----------- | ----------- | ----------- |
 | OFFICE | Applications Visual Basic | 4 |
 | VISUAL STUDIO 19 | Language C# | 4 |
-| VISUAL STUDIO CODE | PHP | 3 |
+| VISUAL STUDIO CODE | PHP, HTML, CSS | 3 |
 | ECLIPSE |Language Java |  3 |
 | SQL SERVER | SQL | 4 |
 | PYTHON | Language PYTHON | 1 |
