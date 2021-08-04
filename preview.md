@@ -15,7 +15,7 @@ title: This is the page title
 
 * * * 
 * **City:**   *Tarazona (Zaragoza) Spain.*
-* **E-mail:**  *correo.byjim@gmail.com*
+* **E-mail:**  *correo.jimartinez@gmail.com*
 
 
 ### Skills
@@ -27,24 +27,30 @@ title: This is the page title
 | ----------- | ----------- | ----------- | ----------- |
 | ESO | Educación Secundaria Obligatoria | IES Tubalcaín. Tarazona | 1988 |
 | SMIR | Sistemas MicroInformáticos y Redes | IES .Tudela | 2018|
-| B1 | Nivel B1 de Ingles | System Idiomas. Tarazona | 2019 |
+| B1 | Nivel B1 de Inglés | System Idiomas. Tarazona | 2019 |
 | DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2021 |
 
 ## Programming Languages
 | Language | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | VBA | Applications Visual Basic | 4 |
+| VB.NET | Language VB.NET | 4 |
 | C# | Language C# | 4 |
 | WPF | Windows Presentation Foundation |  4 |
+| PHP | Language PHP |  3 |
 | JAVA | Language Java |  3 |
-| SQL | Desarrollo de Aplicaciones Multiplataforma | 4 |
+| SQL | Structured Query Language | 4 |
 | PYTHON | Language PYTHON | 1 |
+| HTML5 | HyperText Markup Language.v5 | 2 |
+| CSS | Cascading Style Sheets | 2 |
+| JAVASCRIPT | Language JAVASCRIPT | 2 |
 
 ## IDE's
 | IDE | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | OFFICE | Applications Visual Basic | 4 |
-| VISUAL STUDIO 15 | Language C# | 4 |
+| VISUAL STUDIO 19 | Language C# | 4 |
+| VISUAL STUDIO CODE | PHP, HTML, CSS | 3 |
 | ECLIPSE |Language Java |  3 |
 | SQL SERVER | SQL | 4 |
 | PYTHON | Language PYTHON | 1 |
@@ -53,5 +59,4 @@ title: This is the page title
 ## Hobbies
 My first hobby is family and when I have free time I like to read books and watch series. I also like to run and listen to music.
 My favorite book is "Ender's Game".
-
 ```
