@@ -10,7 +10,7 @@
 
 * * * 
 * **City:**   *Tarazona (Zaragoza) Spain.*
-* **E-mail:**  *correo.byjim@gmail.com*
+* **E-mail:**  *correo.jimartinez@gmail.com*
 
 
 ### Skills
