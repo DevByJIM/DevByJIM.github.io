@@ -3,7 +3,6 @@
 
 # ByJIM®2021
 ### José Ignacio Martínez Pérez
-### ---------------------------
  - - -
 > If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).
 
