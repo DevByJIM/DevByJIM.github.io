@@ -31,6 +31,7 @@
 | VBA | Applications Visual Basic | 4 |
 | C# | Language C# | 4 |
 | WPF | Windows Presentation Foundation |  4 |
+| PHP | Language PHP |  3 |
 | JAVA | Language Java |  3 |
 | SQL | Desarrollo de Aplicaciones Multiplataforma | 4 |
 | PYTHON | Language PYTHON | 1 |
@@ -39,7 +40,8 @@
 | IDE | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | OFFICE | Applications Visual Basic | 4 |
-| VISUAL STUDIO 15 | Language C# | 4 |
+| VISUAL STUDIO 19 | Language C# | 4 |
+| VISUAL STUDIO CODE | PHP | 3 |
 | ECLIPSE |Language Java |  3 |
 | SQL SERVER | SQL | 4 |
 | PYTHON | Language PYTHON | 1 |
