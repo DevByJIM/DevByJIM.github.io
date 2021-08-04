@@ -33,7 +33,7 @@
 | WPF | Windows Presentation Foundation |  4 |
 | PHP | Language PHP |  3 |
 | JAVA | Language Java |  3 |
-| SQL | Desarrollo de Aplicaciones Multiplataforma | 4 |
+| SQL | Structured Query Language | 4 |
 | PYTHON | Language PYTHON | 1 |
 
 ## IDE's
