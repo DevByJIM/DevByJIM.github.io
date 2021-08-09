@@ -12,8 +12,8 @@
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	
-	<table align="center" bgcolor=EEEEEE>
-		<tr> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
+	<table align="center" width="90%" >
+		<tr bgcolor=EEEEEE> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
 
@@ -84,17 +84,17 @@
 		<tr>
 			<td>IDE</td><td>Description</td><td>Nivel 1 to 5</td>
 		</tr><tr>
-			<td>OFFICE</td><td>Applications Visual Basic</td align="center"><td>4</td>
+			<td>OFFICE</td><td>Applications Visual Basic</td><td  align="center">4</td>
 		</tr><tr>
-			<td>VISUAL STUDIO 19</td><td>Language C#</td><td>4</td>
+			<td>VISUAL STUDIO 19</td><td>Language C#</td><td align="center">4</td>
 		</tr><tr>
-			<td>VISUAL STUDIO CODE</td><td>PHP, HTML, CSS</td><td>3</td>
+			<td>VISUAL STUDIO CODE</td><td>PHP, HTML, CSS</td><td align="center">3</td>
 		</tr><tr>
-			<td>ECLIPSE</td><td>Language JAVA</td><td>2</td>
+			<td>ECLIPSE</td><td>Language JAVA</td><td align="center">2</td>
 		</tr><tr>
-			<td>SQL SERVER</td><td>SQL</td><td>4</td>
+			<td>SQL SERVER</td><td>SQL</td><td align="center">4</td>
 		</tr><tr>
-			<td>MySQL</td><td>SQL</td><td>3</td>
+			<td>MySQL</td><td>SQL</td><td align="center">3</td>
 		</tr>
 	</table>
 		
