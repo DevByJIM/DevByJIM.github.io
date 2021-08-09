@@ -3,24 +3,26 @@
 	<meta name = "author" content = "ByJIM®2021"/>
 	<meta name = "descripción" content="CV José Ignacio Martínez"/>
 	<meta charset="utf-8" />
-	<title>CV José Ignacio Martínez</title>
+	<meta title="CV José Ignacio Martínez"/>
 </head>
 <body>
-![Banner de arriba](banner.png)
+	<img src="banner.png" width="95%" height="160" alt="Imagen parte superior"/>
 
-	<hr width="90%" size="6" align="Left">
-	<h3> ByJIM®2021 </h3>
+
+	<hr width="100&" size="6" align="Left">
+	<h2> ByJIM®2021 </h2>
 	<h3> José Ignacio Martínez Pérez </h3>
+	<hr width="90%" size="6" align="Left">
  - - -
 <p> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).</p>
 
 
 * * * 
-* **City:**   *Tarazona (Zaragoza) Spain.*
-* **E-mail:**  *correo.jimartinez@gmail.com*
+	<p> City:   Tarazona (Zaragoza) Spain. </p>
+	<p> E-mail:  correo.jimartinez@gmail.com </p>
 
 
-### Skills
+	<h2>Skills </h2>
 * **Develop interfaces:** I love design and work on the usability of my work.
 * **Team Working:** I am able to work in a group and adapt to people. Ability to lead teams. 
 
@@ -59,7 +61,7 @@
 | PYTHON | Language PYTHON | 1 |
 
 
-## Hobbies
+	<H2> Hobbies </h2>
 My first hobby is family and when I have free time I like to read books and watch series. I also like to run and listen to music.
 My favorite book is "Ender's Game".
 
