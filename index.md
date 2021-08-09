@@ -17,8 +17,8 @@
 <p> If you can imagine, you can program. (Si se puede imaginar, se puede programar).</p>
 
 
-	<p> City:   Tarazona (Zaragoza) Spain. </p>
-	<p> E-mail:  correo.jimartinez@gmail.com </p>
+	<lu> City:   Tarazona (Zaragoza) Spain. </lu>
+	<lu> E-mail:  correo.jimartinez@gmail.com <lu>
 
 
 	<h2>Skills </h2>
