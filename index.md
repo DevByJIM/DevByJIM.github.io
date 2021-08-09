@@ -6,17 +6,12 @@
 </head>
 <body>
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
-
-
-	<h1> ByJIM®2021 </h1>
-	<h2> José Ignacio Martínez Pérez </h2>
-
-	
-	<table align="center" width="90%" >
+	<table  align="center" width="90%" >
 		<tr> <td bgcolor="gray">  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
-
+	<h1> ByJIM®2021 </h1>
+	<h2> José Ignacio Martínez Pérez </h2>
 
 	<ul>
 		<li type="circle"> City:   Tarazona (Zaragoza) Spain. </li>
@@ -53,7 +48,7 @@
 		<tr>
 			<td>Language</td><td>Description</td><td align="center">Nivel 1 to 5</td>
 		</tr><tr>
-			<td>VBA</td><td>Applications Visual Basic</td align="center"><td>4</td>
+			<td>VBA</td><td>Applications Visual Basic</td><td align="center">4</td>
 		</tr><tr>
 			<td>VB.NET</td><td>Language VB.NET</td><td align="center">4</td>
 		</tr><tr>
