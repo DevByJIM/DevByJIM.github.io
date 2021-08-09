@@ -6,18 +6,20 @@
 	<meta title="CV José Ignacio Martínez"/>
 </head>
 <body>
-	<img src="banner.png" width="95%" height="160" alt="Imagen parte superior"/>
+	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
 
 
-	<hr width="100&" size="6" align="Left">
+	<hr width="100&" size="6" align="Center">
 	<h2> ByJIM®2021 </h2>
 	<h3> José Ignacio Martínez Pérez </h3>
-	<hr width="90%" size="6" align="Left">
+	<hr width="100%" size="6" align="Center">
+	
  - - -
 <p> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).</p>
 
 
 * * * 
+	- - -
 	<p> City:   Tarazona (Zaragoza) Spain. </p>
 	<p> E-mail:  correo.jimartinez@gmail.com </p>
 
@@ -26,8 +28,18 @@
 * **Develop interfaces:** I love design and work on the usability of my work.
 * **Team Working:** I am able to work in a group and adapt to people. Ability to lead teams. 
 
-<hr width="90%" size="6" align="Center">
-## Education
+<hr width="100%" size="6" align="Center">
+
+	<h2>Education </h2>
+	<table>
+		<tr>
+			<td>COURSE</td><td>Description</td><td>Place</td><td>Year</td>
+			<td>ESO</td><td>Description</td><td>Place</td><td>1988</td>
+			<td>SMIR</td><td>Description</td><td>Place</td><td>2018</td>
+			<td>B1</td><td>Description</td><td>Place</td><td>2019</td>
+			<td>DAM</td><td>Description</td><td>Place</td><td>2021</td>
+		</tr>
+	</table>
 | COURSE | Description | Place | Year |
 | ----------- | ----------- | ----------- | ----------- |
 | ESO | Educación Secundaria Obligatoria | IES Tubalcaín. Tarazona | 1988 |
@@ -35,7 +47,7 @@
 | B1 | Nivel B1 de Inglés | System Idiomas. Tarazona | 2019 |
 | DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2021 |
 
-## Programming Languages
+<h2>Programming Languages </h2>
 | Language | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | VBA | Applications Visual Basic | 4 |
@@ -50,7 +62,7 @@
 | CSS | Cascading Style Sheets | 2 |
 | JAVASCRIPT | Language JAVASCRIPT | 2 |
 
-## IDE's
+	<h2>IDE's </h2>
 | IDE | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | OFFICE | Applications Visual Basic | 4 |
