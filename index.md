@@ -13,7 +13,7 @@
 
 	
 	<table align="center" width="90%" >
-		<tr bgcolor=EEEEEE> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
+		<tr> <td bgcolor="gray">  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
 
@@ -34,15 +34,15 @@
 	<h2>Education </h2>
 	<table>
 		<tr>
-			<td>COURSE</td><td>Description</td><td>Place</td><td>Year</td>
+			<td>COURSE</td><td>Description</td><td>Place</td><td align="center">Year</td>
 		</tr><tr>
-			<td>ESO</td><td>Educación Secundaria Obligatoria</td><td>IES Tubalcaín. Tarazona</td><td>1988</td>
+			<td>ESO</td><td>Educación Secundaria Obligatoria</td><td>IES Tubalcaín. Tarazona</td><td align="center">1988</td>
 		</tr><tr>
-			<td>SMIR</td><td>Sistemas MicroInformáticos y Redes</td><td>IES .Tudela</td><td>2018</td>
+			<td>SMIR</td><td>Sistemas MicroInformáticos y Redes</td><td>IES .Tudela</td><td align="center">2018</td>
 		</tr><tr>
-			<td>B1</td><td>Nivel B1 de Inglés</td><td>System Idiomas. Tarazona</td><td>2019</td>
+			<td>B1</td><td>Nivel B1 de Inglés</td><td>System Idiomas. Tarazona</td><td align="center">2019</td>
 		</tr><tr>
-			<td>DAM</td><td>Desarrollo de Aplicaciones Multiplataforma</td><td>IES Tubalcaín.Tarazona</td><td>2021</td>
+			<td>DAM</td><td>Desarrollo de Aplicaciones Multiplataforma</td><td>IES Tubalcaín.Tarazona</td><td align="center">2021</td>
 		</tr>
 	</table>
 	
@@ -51,29 +51,29 @@
 	<h2>Programming Languages </h2>
 	<table>
 		<tr>
-			<td>Language</td><td>Description</td><td>Nivel 1 to 5</td>
+			<td>Language</td><td>Description</td><td align="center">Nivel 1 to 5</td>
 		</tr><tr>
-			<td>VBA</td><td>Applications Visual Basic</td><td>4</td>
+			<td>VBA</td><td>Applications Visual Basic</td align="center"><td>4</td>
 		</tr><tr>
-			<td>VB.NET</td><td>Language VB.NET</td><td>4</td>
+			<td>VB.NET</td><td>Language VB.NET</td><td align="center">4</td>
 		</tr><tr>
-			<td>C#</td><td>Language C#</td><td>4</td>
+			<td>C#</td><td>Language C#</td><td align="center">4</td>
 		</tr><tr>
-			<td>WPF</td><td>Windows Presentation Foundation(Xaml)</td><td>4</td>
+			<td>WPF</td><td>Windows Presentation Foundation(Xaml)</td><td align="center">4</td>
 		</tr><tr>
-			<td>PHP</td><td>Language PHP</td><td>3</td>
+			<td>PHP</td><td>Language PHP</td><td align="center">3</td>
 		</tr><tr>
-			<td>JAVA</td><td>Language JAVA</td><td>3</td>
+			<td>JAVA</td><td>Language JAVA</td><td align="center">3</td>
 		</tr><tr>
-			<td>SQL</td><td>Structured Query Language</td><td>4</td>
+			<td>SQL</td><td>Structured Query Language</td><td align="center">4</td>
 		</tr><tr>
-			<td>PYTHON</td><td>Language PYTHON</td><td>1</td>
+			<td>PYTHON</td><td>Language PYTHON</td><td align="center">1</td>
 		</tr><tr>
-			<td>HTML5</td><td>HyperText Markup Language.v5</td><td>2</td>
+			<td>HTML5</td><td>HyperText Markup Language.v5</td><td align="center">2</td>
 		</tr><tr>
-			<td>CSS</td><td>Cascading Style Sheets</td><td>2</td>
+			<td>CSS</td><td>Cascading Style Sheets</td><td align="center">2</td>
 		</tr><tr>
-			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td>2</td>
+			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td align="center">2</td>
 		</tr>
 	</table>
 
@@ -82,7 +82,7 @@
 	<h2>IDE's </h2>
 	<table>
 		<tr>
-			<td>IDE</td><td>Description</td><td>Nivel 1 to 5</td>
+			<td>IDE</td><td>Description</td><td align="center">Nivel 1 to 5</td>
 		</tr><tr>
 			<td>OFFICE</td><td>Applications Visual Basic</td><td  align="center">4</td>
 		</tr><tr>
