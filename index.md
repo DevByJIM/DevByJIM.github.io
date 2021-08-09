@@ -8,7 +8,6 @@
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
 
 
-
 	<h1> ByJIM®2021 </h1>
 	<h2> José Ignacio Martínez Pérez </h2>
 
@@ -17,9 +16,10 @@
 <p> If you can imagine, you can program. (Si se puede imaginar, se puede programar).</p>
 
 
-	<lu> City:   Tarazona (Zaragoza) Spain. </lu>
-	<lu> E-mail:  correo.jimartinez@gmail.com <lu>
-
+	<ul>
+		<li type="circle"> City:   Tarazona (Zaragoza) Spain. </li>
+		<li type="circle">E-mail:  correo.jimartinez@gmail.com </li>
+	</ul>
 
 	<h2>Skills </h2>
 	<p>Develop interfaces:** I love design and work on the usability of my work.</p>
