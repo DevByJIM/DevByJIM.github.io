@@ -25,11 +25,11 @@
 
 	<h2>Skills </h2>
 	<ul>
-		<li type="circle"> Develop interfaces:** I love design and work on the usability of my work.</li>
-		<li type="circle">I am able to work in a group and adapt to people. Ability to lead teams. </li>
+		<li type="circle"> Develop interfaces: I love design and work on the usability of my work.</li>
+		<li type="circle"> Team Working: I am able to work in a group and adapt to people. Ability to lead teams. </li>
 	</ul>
 
-<hr width="100%" size="6" align="Center">
+<hr/>
 
 	<h2>Education </h2>
 	<table>
@@ -46,7 +46,7 @@
 		</tr>
 	</table>
 	
-<hr width="100%" size="6" align="Center">
+<hr/>
 	
 	<h2>Programming Languages </h2>
 	<table>
@@ -77,7 +77,7 @@
 		</tr>
 	</table>
 
-	<hr width="100%" size="6" align="Center">
+	<hr/>
 	
 	<h2>IDE's </h2>
 	<table>
@@ -98,7 +98,7 @@
 		</tr>
 	</table>
 		
-	<hr width="100%" size="6" align="Center">
+	<hr/>
 	
 	<H2> Hobbies </h2>
 	<p>My first hobby is family and when I have free time I like to read books and watch series. I also like to run and listen to music.
