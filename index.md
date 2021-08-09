@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta name = "author" content = "ByJIM®2021"/>
@@ -9,6 +8,7 @@
 <body>
 ![Banner de arriba](banner.png)
 
+	<hr width="90%" size="6" align="Left">
 # ByJIM®2021
 ### José Ignacio Martínez Pérez
  - - -
@@ -24,7 +24,7 @@
 * **Develop interfaces:** I love design and work on the usability of my work.
 * **Team Working:** I am able to work in a group and adapt to people. Ability to lead teams. 
 
-<hr width="90%" size="3" align="Center">
+<hr width="90%" size="6" align="Center">
 ## Education
 | COURSE | Description | Place | Year |
 | ----------- | ----------- | ----------- | ----------- |
