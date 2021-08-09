@@ -12,7 +12,7 @@
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	
-	<table>
+	<table align="center" background="gray">
 		<tr> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
@@ -24,8 +24,10 @@
 	</ul>
 
 	<h2>Skills </h2>
-	<p>Develop interfaces:** I love design and work on the usability of my work.</p>
-	<p>Team Working:** I am able to work in a group and adapt to people. Ability to lead teams. </p>
+	<ul>
+		<li type="circle"> Develop interfaces:** I love design and work on the usability of my work.</li>
+		<li type="circle">I am able to work in a group and adapt to people. Ability to lead teams. </li>
+	</ul>
 
 <hr width="100%" size="6" align="Center">
 
