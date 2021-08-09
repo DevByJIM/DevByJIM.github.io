@@ -18,7 +18,7 @@
 <p> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).</p>
 
 
-* * * 
+* ** h
 	- - -
 	<p> City:   Tarazona (Zaragoza) Spain. </p>
 	<p> E-mail:  correo.jimartinez@gmail.com </p>
@@ -34,9 +34,13 @@
 	<table>
 		<tr>
 			<td>COURSE</td><td>Description</td><td>Place</td><td>Year</td>
+		</tr><tr>
 			<td>ESO</td><td>Description</td><td>Place</td><td>1988</td>
+		</tr><tr>
 			<td>SMIR</td><td>Description</td><td>Place</td><td>2018</td>
+		</tr><tr>
 			<td>B1</td><td>Description</td><td>Place</td><td>2019</td>
+		</tr><tr>
 			<td>DAM</td><td>Description</td><td>Place</td><td>2021</td>
 		</tr>
 	</table>
