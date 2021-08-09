@@ -12,7 +12,7 @@
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	
-	<table align="center" background-color: gray>
+	<table align="center" bgcolor=EEEEEE>
 		<tr> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
@@ -84,7 +84,7 @@
 		<tr>
 			<td>IDE</td><td>Description</td><td>Nivel 1 to 5</td>
 		</tr><tr>
-			<td>OFFICE</td><td>Applications Visual Basic</td><td>4</td>
+			<td>OFFICE</td><td>Applications Visual Basic</td align="center"><td>4</td>
 		</tr><tr>
 			<td>VISUAL STUDIO 19</td><td>Language C#</td><td>4</td>
 		</tr><tr>
