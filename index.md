@@ -8,10 +8,10 @@
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
 
 
-	<hr/>
+
 	<h1> ByJIM®2021 </h1>
 	<h2> José Ignacio Martínez Pérez </h2>
-	<hr width="100%" size="6" align="Center">
+
 	
 
 <p> If you can imagine, you can program. (Si se puede imaginar, se puede programar).</p>
