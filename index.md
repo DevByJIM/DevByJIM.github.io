@@ -9,10 +9,10 @@
 ![Banner de arriba](banner.png)
 
 	<hr width="90%" size="6" align="Left">
-# ByJIM®2021
-### José Ignacio Martínez Pérez
+	<h3> ByJIM®2021 </h3>
+	<h3> José Ignacio Martínez Pérez </h3>
  - - -
-> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).
+<p> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).</p>
 
 
 * * * 
