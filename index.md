@@ -3,19 +3,18 @@
 	<meta name = "author" content = "ByJIM®2021"/>
 	<meta name = "descripción" content="CV José Ignacio Martínez"/>
 	<meta charset="utf-8" />
-	<Title>CV José Ignacio Martínez</Title>
 </head>
 <body>
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
 
 
-	<hr width="100&" size="6" align="Center">
-	<h2> ByJIM®2021 </h2>
-	<h3> José Ignacio Martínez Pérez </h3>
+	<hr/>
+	<h1> ByJIM®2021 </h1>
+	<h2> José Ignacio Martínez Pérez </h2>
 	<hr width="100%" size="6" align="Center">
 	
 
-<p> If you can **imagine**, you can **program**. (Si se puede **imaginar**, se puede **programar**).</p>
+<p> If you can imagine, you can program. (Si se puede imaginar, se puede programar).</p>
 
 
 	<p> City:   Tarazona (Zaragoza) Spain. </p>
