@@ -12,7 +12,7 @@
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	
-	<table align="center" background="gray">
+	<table align="center" background-color: gray>
 		<tr> <td>  If you can imagine, you can program. (Si se puede imaginar, se puede programar)   </td></tr>
 	</table>
 
