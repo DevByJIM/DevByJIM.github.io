@@ -15,7 +15,8 @@
 
 	<ul>
 		<li type="circle"> City:   Tarazona (Zaragoza) Spain. </li>
-		<li type="circle">E-mail:  correo.jimartinez@gmail.com </li>
+		<li type="circle"> E-mail:  correo.jimartinez@gmail.com </li>
+		<li type="circle"> Date of Birth:  17/02/1975 </li>
 	</ul>
 
 	<h2>Skills </h2>
@@ -29,7 +30,7 @@
 	<h2>Education </h2>
 	<table>
 		<tr>
-			<td>COURSE</td><td>Description</td><td>Place</td><td align="center">Year</td>
+			<th>COURSE</th><th>Description</th><th>Place</th><th align="center">Year</th>
 		</tr><tr>
 			<td>ESO</td><td>Educación Secundaria Obligatoria</td><td>IES Tubalcaín. Tarazona</td><td align="center">1988</td>
 		</tr><tr>
@@ -46,7 +47,7 @@
 	<h2>Programming Languages </h2>
 	<table>
 		<tr>
-			<td>Language</td><td>Description</td><td align="center">Nivel 1 to 5</td>
+			<th>Language</th><th>Description</th><th align="center">Nivel 1 to 5</th>
 		</tr><tr>
 			<td>VBA</td><td>Applications Visual Basic</td><td align="center">4</td>
 		</tr><tr>
@@ -77,7 +78,7 @@
 	<h2>IDE's </h2>
 	<table>
 		<tr>
-			<td>IDE</td><td>Description</td><td align="center">Nivel 1 to 5</td>
+			<th>IDE</th><th>Description</th><th align="center">Nivel 1 to 5</th>
 		</tr><tr>
 			<td>OFFICE</td><td>Applications Visual Basic</td><td  align="center">4</td>
 		</tr><tr>
