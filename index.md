@@ -30,7 +30,7 @@
 	<h2>Education </h2>
 	<table>
 		<tr>
-			<th>COURSE</th><th>Description</th><th>Place</th><th align="center">Year</th>
+			<th>COURSE</th><th>DESCRIPTION</th><th>PLACE</th><th align="center">YEAR</th>
 		</tr><tr>
 			<td>ESO</td><td>Educación Secundaria Obligatoria</td><td>IES Tubalcaín. Tarazona</td><td align="center">1988</td>
 		</tr><tr>
@@ -43,11 +43,25 @@
 	</table>
 	
 <hr/>
+
+	<h2>Experience </h2>
+	<table>
+		<tr>
+			<th>JOB</th><th>DESCRIPTION</th><th>PLACE</th><th align="center">DURATION</th><th align="center">YEAR</th>
+		</tr><tr>
+			<td>WEB</td><td>Profesor de páginas web en HTML y Flash</td><td>Academia Izquierdo. Tarazona</td><td align="center">5 months</td><td align="center">2000</td>
+		</tr><tr>
+			<td>IT</td><td>Mantenimiento y desarrollo de Aplicaciones y BBDD</td><td>Aragonesa de Componentes Pasivos.SA.Tarazona</td><td align="center">5 years</td><td align="center">2016</td>
+		</tr>
+	</table>
+	
+	
+<hr/>
 	
 	<h2>Programming Languages </h2>
 	<table>
 		<tr>
-			<th>Language</th><th>Description</th><th align="center">Nivel 1 to 5</th>
+			<th>LANGUAGE</th><th>DESCRIPTION</th><th align="center">NIVEL 1 TO 5</th>
 		</tr><tr>
 			<td>VBA</td><td>Applications Visual Basic</td><td align="center">4</td>
 		</tr><tr>
@@ -78,7 +92,7 @@
 	<h2>IDE's </h2>
 	<table>
 		<tr>
-			<th>IDE</th><th>Description</th><th align="center">Nivel 1 to 5</th>
+			<th>IDE</th><th>DESCRIPTION</th><th align="center">NIVEL 1 TO 5</th>
 		</tr><tr>
 			<td>OFFICE</td><td>Applications Visual Basic</td><td  align="center">4</td>
 		</tr><tr>
