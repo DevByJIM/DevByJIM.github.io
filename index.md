@@ -44,7 +44,7 @@
 	
 <hr/>
 
-	<h2>Experience </h2>
+	<h2>Experience IT</h2>
 	<table>
 		<tr>
 			<th>JOB</th><th>DESCRIPTION</th><th>PLACE</th><th align="center">START</th><th align="center">END</th>
