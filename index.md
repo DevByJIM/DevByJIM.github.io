@@ -47,11 +47,11 @@
 	<h2>Experience </h2>
 	<table>
 		<tr>
-			<th>JOB</th><th>DESCRIPTION</th><th>PLACE</th><th align="center">DURATION</th><th align="center">YEAR</th>
+			<th>JOB</th><th>DESCRIPTION</th><th>PLACE</th><th align="center">START</th><th align="center">END</th>
 		</tr><tr>
-			<td>WEB</td><td>Profesor de páginas web en HTML y Flash</td><td>Academia Izquierdo. Tarazona</td><td align="center">5 months</td><td align="center">2000</td>
+			<td>WEB</td><td>Profesor de páginas web en HTML y Flash</td><td>Academia Izquierdo. Tarazona</td><td align="center">2000</td><td align="center">2000</td>
 		</tr><tr>
-			<td>IT</td><td>Mantenimiento y desarrollo de Aplicaciones y BBDD</td><td>Aragonesa de Componentes Pasivos.SA.Tarazona</td><td align="center">5 years</td><td align="center">2016</td>
+			<td>IT</td><td>Mantenimiento y desarrollo de Aplicaciones y BBDD</td><td>Aragonesa de Componentes Pasivos.SA.Tarazona</td><td align="center">2016</td><td align="center">NOW</td>
 		</tr>
 	</table>
 	
