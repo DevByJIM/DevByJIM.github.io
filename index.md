@@ -3,6 +3,8 @@
 	<meta name = "author" content = "ByJIM®2021"/>
 	<meta name = "descripción" content="CV José Ignacio Martínez"/>
 	<meta charset="utf-8" />
+	<title>CV José Ignacio Martínez</title>
+	<link rel="stylesheet" types="text/css" href="cvstyle.css">
 </head>
 <body>
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
