@@ -79,9 +79,9 @@
 		</tr><tr>
 			<td>PYTHON</td><td>Language PYTHON</td><td align="center">1</td>
 		</tr><tr>
-			<td>HTML5</td><td>HyperText Markup Language.v5</td><td align="center">2</td>
+			<td>HTML5</td><td>HyperText Markup Language.v5</td><td align="center">4</td>
 		</tr><tr>
-			<td>CSS</td><td>Cascading Style Sheets</td><td align="center">2</td>
+			<td>CSS</td><td>Cascading Style Sheets</td><td align="center">4</td>
 		</tr><tr>
 			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td align="center">2</td>
 		</tr>
