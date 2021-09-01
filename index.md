@@ -8,7 +8,7 @@
 </head>
 <body>
 	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
-	<pre> If you can imagine, you can program. (Si se puede imaginar, se puede programar)  </pre>
+	<pre> If you can imagine, you can program. (Si lo puedes imaginar, lo puedes programar)  </pre>
 	
 	<h1> ByJIM®2021 </h1>
 	<h2> José Ignacio Martínez Pérez </h2>
