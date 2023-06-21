@@ -73,17 +73,15 @@
 		</tr><tr>
 			<td>PHP</td><td>Language PHP</td><td align="center">3</td>
 		</tr><tr>
-			<td>JAVA</td><td>Language JAVA</td><td align="center">3</td>
+			<td>JAVA</td><td>Language JAVA</td><td align="center">1</td>
 		</tr><tr>
 			<td>SQL</td><td>Structured Query Language</td><td align="center">4</td>
-		</tr><tr>
-			<td>PYTHON</td><td>Language PYTHON</td><td align="center">1</td>
 		</tr><tr>
 			<td>HTML5</td><td>HyperText Markup Language.v5</td><td align="center">4</td>
 		</tr><tr>
 			<td>CSS</td><td>Cascading Style Sheets</td><td align="center">4</td>
 		</tr><tr>
-			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td align="center">2</td>
+			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td align="center">3</td>
 		</tr>
 	</table>
 
@@ -96,11 +94,11 @@
 		</tr><tr>
 			<td>OFFICE</td><td>Applications Visual Basic</td><td  align="center">4</td>
 		</tr><tr>
-			<td>VISUAL STUDIO 19</td><td>Language C#</td><td align="center">4</td>
+			<td>VISUAL STUDIO 22</td><td>Language C#</td><td align="center">4</td>
 		</tr><tr>
-			<td>VISUAL STUDIO CODE</td><td>PHP, HTML, CSS</td><td align="center">3</td>
+			<td>VISUAL STUDIO CODE</td><td>PHP, HTML, CSS</td><td align="center">4</td>
 		</tr><tr>
-			<td>ECLIPSE</td><td>Language JAVA</td><td align="center">2</td>
+			<td>ECLIPSE</td><td>Language JAVA</td><td align="center">1</td>
 		</tr><tr>
 			<td>SQL SERVER</td><td>SQL</td><td align="center">4</td>
 		</tr><tr>
