@@ -31,23 +31,19 @@
 | VB.NET | Language VB.NET | 4 |
 | C# | Language C# | 4 |
 | WPF | Windows Presentation Foundation |  4 |
-| PHP | Language PHP |  3 |
-| JAVA | Language Java |  3 |
+| PHP | Language PHP |  2 |
 | SQL | Structured Query Language | 4 |
-| PYTHON | Language PYTHON | 1 |
-| HTML5 | HyperText Markup Language.v5 | 2 |
-| CSS | Cascading Style Sheets | 2 |
-| JAVASCRIPT | Language JAVASCRIPT | 2 |
+| HTML5 | HyperText Markup Language.v5 | 3 |
+| CSS | Cascading Style Sheets | 3 |
+| JAVASCRIPT | Language JAVASCRIPT | 3 |
 
 ## IDE's
 | IDE | Description | Nivel 1 to 5 |
 | ----------- | ----------- | ----------- |
 | OFFICE | Applications Visual Basic | 4 |
-| VISUAL STUDIO 19 | Language C# | 4 |
-| VISUAL STUDIO CODE | PHP, HTML, CSS | 3 |
-| ECLIPSE |Language Java |  3 |
+| VISUAL STUDIO 22 | Language C# | 4 |
+| VISUAL STUDIO CODE | PHP, HTML, CSS | 4 |
 | SQL SERVER | SQL | 4 |
-| PYTHON | Language PYTHON | 1 |
 
 ## Experience
 
