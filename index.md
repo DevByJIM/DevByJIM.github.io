@@ -12,7 +12,7 @@
 	
 	<h1> ByJIM®2021 </h1>
  
-	[www.byjim.es](http://byjim.es)
+	[byjim.es] (https://byjim.es)
  
  	<a> https://www.byjim.es<a/>
 	<h2> José Ignacio Martínez Pérez </h2>
