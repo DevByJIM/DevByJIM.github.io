@@ -12,7 +12,6 @@
 	
 	<h1> ByJIM®2023 </h1>
 
-My WebSite: 
 [www.byjim.es](https://www.byjim.es)
 
    
