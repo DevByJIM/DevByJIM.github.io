@@ -11,6 +11,7 @@
 	<pre> If you can imagine, you can program. (Si lo puedes imaginar, lo puedes programar)  </pre>
 	
 	<h1> ByJIM®2021 </h1>
+ <a> https://www.byjim.es<a/>
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	<ul>
@@ -63,7 +64,7 @@
 		<tr>
 			<th>LANGUAGE</th><th>DESCRIPTION</th><th align="center">NIVEL 1 TO 5</th>
 		</tr><tr>
-			<td>VBA</td><td>Applications Visual Basic</td><td align="center">4</td>
+			<td>VBA</td><td>Applications Visual Basic</td><td align="center">3</td>
 		</tr><tr>
 			<td>VB.NET</td><td>Language VB.NET</td><td align="center">4</td>
 		</tr><tr>
@@ -82,6 +83,8 @@
 			<td>CSS</td><td>Cascading Style Sheets</td><td align="center">4</td>
 		</tr><tr>
 			<td>JAVASCRIPT</td><td>Language JAVASCRIPT</td><td align="center">3</td>
+		</tr><tr>
+			<td>REACTJS</td><td>Reactjs</td><td align="center">3</td>
 		</tr>
 	</table>
 
