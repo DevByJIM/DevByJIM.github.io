@@ -12,7 +12,7 @@
 	
 	<h1> ByJIM®2023 </h1>
 
-<a>https://byjim.es</>
+<a>https://byjim.es</a>
 
    
 	<h2> José Ignacio Martínez Pérez </h2>
