@@ -12,11 +12,9 @@
 	
 	<h1> ByJIM®2023 </h1>
 
-My WebSite:
- [byjim.es](https://www.byjim.es)
- 
- <a>https://www.byjim.es </a>
-  
+My WebSite: 
+ [www.byjim.es](https://www.byjim.es)
+   
 	<h2> José Ignacio Martínez Pérez </h2>
 
 	<ul>
