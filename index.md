@@ -7,13 +7,13 @@
 	<link rel="stylesheet" types="text/css" href="cvstyle.css">
 </head>
 <body>
-	<img src="banner.png" width="100%" height="160" alt="Imagen parte superior"/>
+	<img src="banner.png" width="100%" height="150" alt="Imagen parte superior"/>
 	<pre> If you can imagine, you can program. (Si lo puedes imaginar, lo puedes programar)  </pre>
 	
 	<h1> ByJIM®2023 </h1>
 
-My WebSite: 
-[www.byjim.es](https://www.byjim.es)
+My WebSite: [www.byjim.es]([url](https://www.byjim.es))
+
    
 	<h2> José Ignacio Martínez Pérez </h2>
 
